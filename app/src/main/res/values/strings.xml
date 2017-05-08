@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HX</string>
+
+    <string name="em_tip_wating">等待...</string>
+    <string name="em_tip_request_fail">请求失败!</string>
+    <string name="title_satifisfaction_eval">满意度评价</string>
+    <string name="nick_service">服务</string>
+    <string name="tip_eval">请评价我的服务</string>
+    <string name="hint_leave_message">留意</string>
+    <string name="tip_btn_sumbit">提交</string>
+    <string name="tip_btn_evaluation">评价</string>
+    <string name="system_is_regist">系统自动为你注册用户...</string>
+    <string name="is_contact_customer">联系客服,请稍等...</string>
+    <string name="is_contact_customer_failure_seconed">联系客服失败:</string>
+    <string name="register_user_fail">用户注册失败!</string>
+
+    <string name="network_unstable">网络不稳定</string> 
+    <string name="no_call_data">没有调用的数据</string>
+    <string name="call_version_inconsistent">调用的版本都是不一致的</string>
+    <string name="answering">answering...</string>
+    <string name="attach_short_cut_message">常用语</string>
+    <string name="attach_call_video">电话视频</string>
+</resources>
